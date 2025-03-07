@@ -33,7 +33,7 @@ export default function Navbar() {
           <Link href="/" className="flex items-center">
             <Logo className="w-10 h-10 mr-3" />
             <h1 className="text-xl font-bold m-0">
-              <span className="text-primary">Sonya</span> {language === "tr" ? "Vakfı" : "Foundation"}
+              <span className="text-primary">Sonya</span> {language === "tr" ? "Topluluğu" : "Community"}
             </h1>
           </Link>
         </div>

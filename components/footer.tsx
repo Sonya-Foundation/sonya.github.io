@@ -14,7 +14,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4 text-primary flex items-center">
               <Logo className="w-6 h-6 mr-2" />
-              {language === "tr" ? "Sonya Vakfı" : "Sonya Foundation"}
+              {language === "tr" ? "Sonya Topluluğu" : "Sonya Community"}
             </h3>
             <p>{t("about.whoWeAre.description1")}</p>
           </div>

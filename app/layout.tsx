@@ -1,6 +1,6 @@
 import type React from "react"
 import type { Metadata } from "next/dist/lib/metadata/types/metadata-interface"
-import { Inter } from "next/font/google"
+import { Inter } from 'next/font/google'
 import "./globals.css"
 import { LanguageProvider } from "@/components/language-provider"
 import { ThemeProvider } from "@/components/theme-provider"
@@ -8,9 +8,9 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin", "latin-ext"] })
 
 export const metadata: Metadata = {
-  title: "Sonya Vakfı",
-  description: "Toplumsal sorunlara sürdürülebilir ve alternatif çözümler geliştiren vakıf",
-    generator: 'v0.dev'
+  title: "Sonya Topluluğu",
+  description: "Toplumsal sorunlara sürdürülebilir ve alternatif çözümler geliştiren topluluk",
+  generator: "v0.dev",
 }
 
 export default function RootLayout({
@@ -37,6 +37,8 @@ export default function RootLayout({
     </html>
   )
 }
+
+import "./globals.css"
 
 
 

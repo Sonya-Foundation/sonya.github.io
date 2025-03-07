@@ -44,7 +44,7 @@ export default function ProjectsPage() {
         "Çok dilli arayüz desteği",
       ],
       github: "github.com/sonyagit/lemeye",
-      image: "https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/istanbul-turkiye.jpg",
+      image: "/placeholder.svg?height=400&width=600",
     },
     {
       id: "koopnet",
@@ -52,8 +52,7 @@ export default function ProjectsPage() {
       description: "Kooperatifler için açık kaynak yönetim sistemi.",
       features: ["Envanter yönetimi", "Üye kaydı ve takibi", "Finansal izleme araçları"],
       github: "#",
-      image:
-        "https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/ankara-students-square.jpg",
+      image: "/placeholder.svg?height=400&width=600",
       status: language === "tr" ? "Geliştirme Aşamasında" : "In Development",
     },
     {
@@ -62,8 +61,7 @@ export default function ProjectsPage() {
       description: "Merkezsiz iletişim ağları için altyapı yazılımı.",
       features: ["Mesh network protokolü", "Şifreli mesajlaşma", "Çevrimdışı çalışabilme"],
       github: "#",
-      image:
-        "https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/eskisehir-virus-square.jpg",
+      image: "/placeholder.svg?height=400&width=600",
       status: language === "tr" ? "Geliştirme Aşamasında" : "In Development",
     },
     {
@@ -72,7 +70,7 @@ export default function ProjectsPage() {
       description: "Özgür eğitim içeriği paylaşım platformu.",
       features: ["Açık ders materyalleri", "Etkileşimli öğrenme araçları", "Topluluğa dayalı içerik oluşturma"],
       github: "#",
-      image: "https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/settings-sources.jpg",
+      image: "/placeholder.svg?height=400&width=600",
       status: language === "tr" ? "Planlama Aşamasında" : "In Planning",
     },
   ]
@@ -122,7 +120,7 @@ export default function ProjectsPage() {
       <Hero
         title={t("projects.hero.title")}
         subtitle={t("projects.hero.subtitle")}
-        backgroundImage="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/istanbul-turkiye.jpg"
+        backgroundImage="/placeholder.svg?height=600&width=1200"
       />
 
       <section className="py-16">
@@ -212,7 +210,7 @@ export default function ProjectsPage() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8 mb-12">
             <div className="overflow-hidden rounded-lg scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/ankara-students-square.jpg"
+                src="/placeholder.svg?height=600&width=600"
                 alt="Ankara Öğrenciler Meydanı"
                 width={600}
                 height={600}
@@ -221,7 +219,7 @@ export default function ProjectsPage() {
             </div>
             <div className="overflow-hidden rounded-lg scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/eskisehir-virus-square.jpg"
+                src="/placeholder.svg?height=600&width=600"
                 alt="Eskişehir Virüs Meydanı"
                 width={600}
                 height={600}
@@ -230,7 +228,7 @@ export default function ProjectsPage() {
             </div>
             <div className="overflow-hidden rounded-lg scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/istanbul-turkiye.jpg"
+                src="/placeholder.svg?height=600&width=600"
                 alt="İstanbul Türkiye"
                 width={600}
                 height={400}
@@ -239,7 +237,7 @@ export default function ProjectsPage() {
             </div>
             <div className="overflow-hidden rounded-lg scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/settings-sources.jpg"
+                src="/placeholder.svg?height=600&width=600"
                 alt="Ayarlar Kaynakları"
                 width={600}
                 height={400}

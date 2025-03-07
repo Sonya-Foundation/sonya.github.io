@@ -1,14 +1,22 @@
+import Image from "next/image"
+
 export default function Logo({ className = "w-10 h-10", color = "text-primary" }) {
+  // Use the GitHub avatar as logo but invert the colors for white background
   return (
-    <svg
-      viewBox="0 0 100 100"
-      className={`${className} fill-current ${color}`}
-      role="img"
-      aria-label="Sonya Foundation Logo"
-    >
-      <path d="M50 10 L10 90 L50 70 L90 90 Z" />
-      <circle cx="50" cy="30" r="6" />
-    </svg>
+    <div className={`${className} relative`}>
+      <Image 
+        src="https://avatars.githubusercontent.com/u/200853854" 
+        alt="Sonya Topluluğu Logo"
+        width={100}
+        height={100}
+        className="invert filter"
+        style={{
+          width: '100%',
+          height: '100%',
+          objectFit: 'contain'
+        }}
+      />
+    </div>
   )
 }
 

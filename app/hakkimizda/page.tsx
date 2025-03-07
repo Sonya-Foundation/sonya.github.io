@@ -39,7 +39,7 @@ export default function AboutPage() {
       <Hero
         title={t("about.hero.title")}
         subtitle={t("about.hero.subtitle")}
-        backgroundImage="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/eskisehir-virus.jpg"
+        backgroundImage="https://github.com/Sonya-Foundation/lemeye/blob/master/screenshots/istanbul-turkiye.jpg"
       />
 
       <section className="py-16">
@@ -53,8 +53,8 @@ export default function AboutPage() {
             </div>
             <div className="relative h-[400px] rounded-lg overflow-hidden">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/ankara-students.jpg"
-                alt="Sonya Vakfı Ekibi"
+                src="/placeholder.svg?height=400&width=600"
+                alt="Sonya Community Team"
                 fill
                 className="object-cover"
               />

@@ -18,7 +18,7 @@ export default function LemeyePromotion() {
               <div className="relative h-[300px] rounded-lg overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-br from-purple-900/50 via-transparent to-black/50 z-10"></div>
                 <Image
-                  src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/istanbul-turkiye.jpg"
+                  src="/placeholder.svg?height=300&width=500"
                   alt="Lemeye Platform"
                   fill
                   className="object-cover"

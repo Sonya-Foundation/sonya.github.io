@@ -10,7 +10,7 @@ export const translations = {
       send: "Gönder",
       joinUs: "Bize Katılın",
       viewAll: "Tümünü Görüntüle",
-      copyright: "Sonya Vakfı, Telif Hakkı",
+      copyright: "Sonya Topluluğu, Telif Hakkı",
     },
     home: {
       hero: {
@@ -47,7 +47,7 @@ export const translations = {
       mission: {
         title: "Misyonumuz",
         description:
-          "Sonya Vakfı olarak misyonumuz, toplumsal sorunlara sürdürülebilir ve yenilikçi çözümler üreterek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmektir. Deprem hazırlığı, kadın hakları, hayvan hakları ve insan hakları gibi kritik alanlarda toplumsal dönüşümü desteklerken, aynı zamanda alternatif ekonomi modelleri ve dijital özgürlük alanlarında öncü çalışmalar gerçekleştiriyoruz. Amacımız, toplumsal eşitlik ve adalet anlayışını güçlendirerek, herkes için daha eşit ve özgür bir geleceğe katkı sağlamaktır.",
+          "Sonya Topluluğu olarak misyonumuz, toplumsal sorunlara sürdürülebilir ve yenilikçi çözümler üreterek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmektir. Deprem hazırlığı, kadın hakları, hayvan hakları ve insan hakları gibi kritik alanlarda toplumsal dönüşümü desteklerken, aynı zamanda alternatif ekonomi modelleri ve dijital özgürlük alanlarında öncü çalışmalar gerçekleştiriyoruz. Amacımız, toplumsal eşitlik ve adalet anlayışını güçlendirerek, herkes için daha eşit ve özgür bir geleceğe katkı sağlamaktır.",
       },
       values: {
         title: "Değerlerimiz",
@@ -96,21 +96,21 @@ export const translations = {
     about: {
       hero: {
         title: "Hakkımızda",
-        subtitle: "Sonya Vakfı'nı daha yakından tanıyın",
+        subtitle: "Sonya Topluluğu'nu daha yakından tanıyın",
       },
       whoWeAre: {
         title: "Biz Kimiz?",
         description1:
-          "Sonya Vakfı, toplumsal sorunlara sürdürülebilir ve alternatif çözümler geliştirmek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmek amacıyla kurulmuş bir sivil toplum kuruluşudur.",
+          "Sonya Topluluğu, toplumsal sorunlara sürdürülebilir ve alternatif çözümler geliştirmek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmek amacıyla kurulmuş bir sivil toplum kuruluşudur.",
         description2:
           "Deprem hazırlığı, kadın hakları, hayvan hakları ve insan hakları alanlarında toplumsal dönüşüme öncülük ederken, alternatif ekonomi modelleri ve dijital özgürlük alanlarında da öncü çalışmalar yürütüyoruz.",
         description3:
-          "Vakfımız, şeffaflık, kapsayıcılık, sürdürülebilirlik, dayanışma, yenilikçilik ve özerklik değerleri doğrultusunda faaliyetlerini sürdürmektedir.",
+          "Topluluğumuz, şeffaflık, kapsayıcılık, sürdürülebilirlik, dayanışma, yenilikçilik ve özerklik değerleri doğrultusunda faaliyetlerini sürdürmektedir.",
       },
       mission: {
         title: "Misyonumuz",
         description:
-          "Sonya Vakfı olarak misyonumuz, toplumsal sorunlara sürdürülebilir ve yenilikçi çözümler üreterek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmektir. Deprem hazırlığı, kadın hakları, hayvan hakları ve insan hakları gibi kritik alanlarda toplumsal dönüşümü desteklerken, aynı zamanda alternatif ekonomi modelleri ve dijital özgürlük alanlarında öncü çalışmalar gerçekleştiriyoruz. Amacımız, toplumsal eşitlik ve adalet anlayışını güçlendirerek, herkes için daha eşit ve özgür bir geleceğe katkı sağlamaktır.",
+          "Sonya Topluluğu olarak misyonumuz, toplumsal sorunlara sürdürülebilir ve yenilikçi çözümler üreterek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmektir. Deprem hazırlığı, kadın hakları, hayvan hakları ve insan hakları gibi kritik alanlarda toplumsal dönüşümü desteklerken, aynı zamanda alternatif ekonomi modelleri ve dijital özgürlük alanlarında öncü çalışmalar gerçekleştiriyoruz. Amacımız, toplumsal eşitlik ve adalet anlayışını güçlendirerek, herkes için daha eşit ve özgür bir geleceğe katkı sağlamaktır.",
       },
       vision: {
         title: "Vizyonumuz",
@@ -123,19 +123,19 @@ export const translations = {
       faq: {
         title: "Sıkça Sorulan Sorular",
         q1: {
-          question: "Sonya Vakfı resmi olarak kurulmuş mudur?",
+          question: "Sonya Topluluğu resmi olarak kurulmuş mudur?",
           answer:
-            "Hayır, vakıf henüz resmi olarak kurulmamıştır. Kuruluş süreci Sonya Topluluğu Gönüllüleri tarafından başlatılmış olup, yasal tescil aşamasına geçilmemiştir.",
+            "Hayır, topluluk henüz resmi olarak kurulmamıştır. Kuruluş süreci Sonya Topluluğu Gönüllüleri tarafından başlatılmış olup, yasal tescil aşamasına geçilmemiştir.",
         },
         q2: {
-          question: "Vakfın hukuki statüsü nedir?",
+          question: "Topluluğun hukuki statüsü nedir?",
           answer:
-            "Vakfın şu aşamada resmi bir hukuki statüsü bulunmamaktadır. Tüzel kişilik kazanması için gerekli yasal süreçler, kurumun gelecek planları arasında öncelikli olarak yer almaktadır.",
+            "Topluluğun şu aşamada resmi bir hukuki statüsü bulunmamaktadır. Tüzel kişilik kazanması için gerekli yasal süreçler, kurumun gelecek planları arasında öncelikli olarak yer almaktadır.",
         },
         q3: {
-          question: "Vakfın ana finansman kaynağı nedir?",
+          question: "Topluluğun ana finansman kaynağı nedir?",
           answer:
-            "Vakfın finansmanı temel olarak bağışlar ve proje gelirleri üzerine kurulmuştur. Kurum, mali sürdürülebilirliğini bu kaynaklar üzerinden sağlamayı planlamaktadır.",
+            "Topluluğun finansmanı temel olarak bağışlar ve proje gelirleri üzerine kurulmuştur. Kurum, mali sürdürülebilirliğini bu kaynaklar üzerinden sağlamayı planlamaktadır.",
         },
         q4: {
           question: "Şeffaflık raporları yayınlanıyor mu?",
@@ -143,7 +143,7 @@ export const translations = {
             "Evet, finansal şeffaflık ilkesi doğrultusunda düzenli raporlar Sonya web sitesi üzerinden kamuoyuna açık şekilde yayınlanacaktır.",
         },
         q5: {
-          question: "Vakfın yönetimi nasıl organize edilmektedir?",
+          question: "Topluluğun yönetimi nasıl organize edilmektedir?",
           answer:
             "Yönetim yapısı gönüllülük esasına dayalı bir kurul tarafından oluşturulmuştur. Karar alma süreçleri, eşit yetki ve sorumluluk paylaşımı ilkesiyle çalışan departmanlar arasında koordineli şekilde yürütülmektedir.",
         },
@@ -281,7 +281,7 @@ export const translations = {
     contact: {
       hero: {
         title: "İletişim",
-        subtitle: "Sonya Vakfı ile iletişime geçin",
+        subtitle: "Sonya Topluluğu ile iletişime geçin",
       },
       getInTouch: {
         title: "Bize Ulaşın",
@@ -302,7 +302,7 @@ export const translations = {
       volunteer: {
         title: "Gönüllü Olun",
         description:
-          "Sonya Vakfı'nın çalışmalarına gönüllü olarak katkıda bulunmak ister misiniz? Yeteneklerinizi ve zamanınızı toplumsal fayda için kullanabileceğiniz birçok alan var.",
+          "Sonya Topluluğu'nun çalışmalarına gönüllü olarak katkıda bulunmak ister misiniz? Yeteneklerinizi ve zamanınızı toplumsal fayda için kullanabileceğiniz birçok alan var.",
         button: "Gönüllü Başvuru Formu",
       },
     },
@@ -318,7 +318,7 @@ export const translations = {
       send: "Send",
       joinUs: "Join Us",
       viewAll: "View All",
-      copyright: "Sonya Foundation, Copyright",
+      copyright: "Sonya Community, Copyright",
     },
     home: {
       hero: {
@@ -355,7 +355,7 @@ export const translations = {
       mission: {
         title: "Our Mission",
         description:
-          "As Sonya Foundation, our mission is to empower disadvantaged groups and promote social justice by producing sustainable and innovative solutions to social problems. While supporting social transformation in critical areas such as disaster preparedness, women's rights, animal rights, and human rights, we also pioneer work in alternative economic models and digital freedom. Our aim is to contribute to a more equal and free future for everyone by strengthening the understanding of social equality and justice.",
+          "As Sonya Community, our mission is to empower disadvantaged groups and promote social justice by producing sustainable and innovative solutions to social problems. While supporting social transformation in critical areas such as disaster preparedness, women's rights, animal rights, and human rights, we also pioneer work in alternative economic models and digital freedom. Our aim is to contribute to a more equal and free future for everyone by strengthening the understanding of social equality and justice.",
       },
       values: {
         title: "Our Values",
@@ -404,21 +404,21 @@ export const translations = {
     about: {
       hero: {
         title: "About Us",
-        subtitle: "Get to know Sonya Foundation better",
+        subtitle: "Get to know Sonya Community better",
       },
       whoWeAre: {
         title: "Who We Are",
         description1:
-          "Sonya Foundation is a non-governmental organization established to develop sustainable and alternative solutions to social problems, empower disadvantaged groups, and promote social justice.",
+          "Sonya Community is a non-governmental organization established to develop sustainable and alternative solutions to social problems, empower disadvantaged groups, and promote social justice.",
         description2:
           "While leading social transformation in the areas of disaster preparedness, women's rights, animal rights, and human rights, we also conduct pioneering work in the fields of alternative economic models and digital freedom.",
         description3:
-          "Our foundation carries out its activities in line with the values of transparency, inclusivity, sustainability, solidarity, innovation, and autonomy.",
+          "Our community carries out its activities in line with the values of transparency, inclusivity, sustainability, solidarity, innovation, and autonomy.",
       },
       mission: {
         title: "Our Mission",
         description:
-          "As Sonya Foundation, our mission is to empower disadvantaged groups and promote social justice by producing sustainable and innovative solutions to social problems. While supporting social transformation in critical areas such as disaster preparedness, women's rights, animal rights, and human rights, we also pioneer work in alternative economic models and digital freedom. Our aim is to contribute to a more equal and free future for everyone by strengthening the understanding of social equality and justice.",
+          "As Sonya Community, our mission is to empower disadvantaged groups and promote social justice by producing sustainable and innovative solutions to social problems. While supporting social transformation in critical areas such as disaster preparedness, women's rights, animal rights, and human rights, we also pioneer work in alternative economic models and digital freedom. Our aim is to contribute to a more equal and free future for everyone by strengthening the understanding of social equality and justice.",
       },
       vision: {
         title: "Our Vision",
@@ -431,19 +431,19 @@ export const translations = {
       faq: {
         title: "Frequently Asked Questions",
         q1: {
-          question: "Has Sonya Foundation been officially established?",
+          question: "Has Sonya Community been officially established?",
           answer:
-            "No, the foundation has not yet been officially established. The establishment process has been initiated by Sonya Community Volunteers, but the legal registration phase has not been reached.",
+            "No, the community has not yet been officially established. The establishment process has been initiated by Sonya Community Volunteers, but the legal registration phase has not been reached.",
         },
         q2: {
-          question: "What is the legal status of the foundation?",
+          question: "What is the legal status of the community?",
           answer:
-            "The foundation does not currently have an official legal status. The legal processes necessary for it to gain legal entity status are among the institution's future plans as a priority.",
+            "The community does not currently have an official legal status. The legal processes necessary for it to gain legal entity status are among the institution's future plans as a priority.",
         },
         q3: {
-          question: "What is the main source of funding for the foundation?",
+          question: "What is the main source of funding for the community?",
           answer:
-            "The foundation's financing is primarily based on donations and project revenues. The institution plans to ensure its financial sustainability through these sources.",
+            "The community's financing is primarily based on donations and project revenues. The institution plans to ensure its financial sustainability through these sources.",
         },
         q4: {
           question: "Are transparency reports published?",
@@ -451,7 +451,7 @@ export const translations = {
             "Yes, regular reports will be published openly to the public via the Sonya website in line with the principle of financial transparency.",
         },
         q5: {
-          question: "How is the foundation's management organized?",
+          question: "How is the community's management organized?",
           answer:
             "The management structure has been formed by a board based on volunteerism. Decision-making processes are carried out in a coordinated manner among departments working with the principle of equal authority and responsibility sharing.",
         },
@@ -589,7 +589,7 @@ export const translations = {
     contact: {
       hero: {
         title: "Contact",
-        subtitle: "Get in touch with Sonya Foundation",
+        subtitle: "Get in touch with Sonya Community",
       },
       getInTouch: {
         title: "Get In Touch",
@@ -610,7 +610,7 @@ export const translations = {
       volunteer: {
         title: "Become a Volunteer",
         description:
-          "Would you like to contribute to Sonya Foundation's work as a volunteer? There are many areas where you can use your talents and time for social benefit.",
+          "Would you like to contribute to Sonya Community's work as a volunteer? There are many areas where you can use your talents and time for social benefit.",
         button: "Volunteer Application Form",
       },
     },

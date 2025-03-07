@@ -53,7 +53,7 @@ export default function Home() {
       <Hero
         title={t("home.hero.title")}
         subtitle={t("home.hero.subtitle")}
-        backgroundImage="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/istanbul-turkiye.jpg"
+        backgroundImage="/placeholder.svg?height=600&width=1200"
       />
 
       <section className="py-16">
@@ -113,8 +113,8 @@ export default function Home() {
             </div>
             <div className="relative h-[400px] rounded-lg overflow-hidden scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/ankara-students.jpg"
-                alt="Sonya Vakfı Misyon"
+                src="/placeholder.svg?height=400&width=600"
+                alt="Sonya Community Mission"
                 fill
                 className="object-cover transition-transform duration-500 hover:scale-110"
               />
@@ -156,7 +156,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="overflow-hidden rounded-lg scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/ankara-students-square.jpg"
+                src="/placeholder.svg?height=600&width=600"
                 alt="Ankara Öğrenciler Meydanı"
                 width={600}
                 height={600}
@@ -165,7 +165,7 @@ export default function Home() {
             </div>
             <div className="overflow-hidden rounded-lg scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/eskisehir-virus-square.jpg"
+                src="/placeholder.svg?height=600&width=600"
                 alt="Eskişehir Virüs Meydanı"
                 width={600}
                 height={600}
@@ -174,7 +174,7 @@ export default function Home() {
             </div>
             <div className="overflow-hidden rounded-lg scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/istanbul-turkiye.jpg"
+                src="/placeholder.svg?height=600&width=600"
                 alt="İstanbul Türkiye"
                 width={600}
                 height={400}
@@ -183,7 +183,7 @@ export default function Home() {
             </div>
             <div className="overflow-hidden rounded-lg scale-on-hover">
               <Image
-                src="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/settings-sources.jpg"
+                src="/placeholder.svg?height=600&width=600"
                 alt="Ayarlar Kaynakları"
                 width={600}
                 height={400}

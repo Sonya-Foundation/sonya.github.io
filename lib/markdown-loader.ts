@@ -12,11 +12,11 @@ export async function loadMarkdownContent(filePath: string): Promise<string> {
       return `
 # Misyonumuz
 
-Sonya Vakfı olarak misyonumuz, toplumsal sorunlara sürdürülebilir ve yenilikçi çözümler üreterek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmektir. Deprem hazırlığı, kadın hakları, hayvan hakları ve insan hakları gibi kritik alanlarda toplumsal dönüşümü desteklerken, aynı zamanda alternatif ekonomi modelleri ve dijital özgürlük alanlarında öncü çalışmalar gerçekleştiriyoruz. Amacımız, toplumsal eşitlik ve adalet anlayışını güçlendirerek, herkes için daha eşit ve özgür bir geleceğe katkı sağlamaktır.
+Sonya Topluluğu olarak misyonumuz, toplumsal sorunlara sürdürülebilir ve yenilikçi çözümler üreterek, dezavantajlı grupları güçlendirmek ve sosyal adaleti teşvik etmektir. Deprem hazırlığı, kadın hakları, hayvan hakları ve insan hakları gibi kritik alanlarda toplumsal dönüşümü desteklerken, aynı zamanda alternatif ekonomi modelleri ve dijital özgürlük alanlarında öncü çalışmalar gerçekleştiriyoruz. Amacımız, toplumsal eşitlik ve adalet anlayışını güçlendirerek, herkes için daha eşit ve özgür bir geleceğe katkı sağlamaktır.
 
 # Our Mission
 
-As Sonya Foundation, our mission is to empower disadvantaged groups and promote social justice by producing sustainable and innovative solutions to social problems. While supporting social transformation in critical areas such as disaster preparedness, women's rights, animal rights, and human rights, we also pioneer work in alternative economic models and digital freedom. Our aim is to contribute to a more equal and free future for everyone by strengthening the understanding of social equality and justice.
+As Sonya Community, our mission is to empower disadvantaged groups and promote social justice by producing sustainable and innovative solutions to social problems. While supporting social transformation in critical areas such as disaster preparedness, women's rights, animal rights, and human rights, we also pioneer work in alternative economic models and digital freedom. Our aim is to contribute to a more equal and free future for everyone by strengthening the understanding of social equality and justice.
 `
     }
 

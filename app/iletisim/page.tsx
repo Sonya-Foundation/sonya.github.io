@@ -15,7 +15,7 @@ export default function ContactPage() {
       <Hero
         title={t("contact.hero.title")}
         subtitle={t("contact.hero.subtitle")}
-        backgroundImage="https://raw.githubusercontent.com/Sonya-Foundation/sonya.github.io/main/screenshots/eskisehir-virus.jpg"
+        backgroundImage="https://github.com/Sonya-Foundation/lemeye/blob/master/screenshots/istanbul-turkiye.jpg"
       />
 
       <section className="py-16">
